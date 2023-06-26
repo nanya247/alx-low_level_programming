@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * put2 - function should print only one character out
+ * puts2 - function should print only one character out
  * starting with the first one
  * @str: input
  * Return: print
