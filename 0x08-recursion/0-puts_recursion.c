@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * _puts_recursion - function like puts();
- * _putchar - prints the line.
  * @s: input
  * Return: Always 0 (Success)
  */
